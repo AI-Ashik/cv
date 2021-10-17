@@ -1,0 +1,77 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    
+    }
+
+.container{
+
+padding: 10px 7px 5px 10px;
+
+}
+
+.profile-img{
+
+
+height: 90px;
+
+}
+
+.header-bio{
+
+font-size: 0.65rem;
+
+}
+
+.header-contact{
+
+font-size: 0.55rem;
+margin-top: 15px;
+
+}
+
+.header-contact p{
+
+padding: 1px 0;
+
+}
+
+.left-div{
+
+font-size: 90%;
+
+}
+
+#qualifications{
+
+text-align: initial;
+
+}
+
+footer{
+
+max-width: 410px;
+position:relative;
+left: 10px;
+
+
+}
+
+.hr1{
+
+width: 98%;
+
+}
+
+.hr2{
+
+width: 95%;
+
+}
+
+footer p{
+
+    font-size: 0.8rem;
+
+}
